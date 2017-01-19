@@ -1,6 +1,2 @@
-HEY THERE!
-<<<<<<< HEAD
-Hey AGAIN!!!
-=======
-HEY AGAIN!
->>>>>>> master
+
+I’m changing this at 10:07PM…
